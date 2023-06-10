@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-# I try to my best
+# I try to my Best
